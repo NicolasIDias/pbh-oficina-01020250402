@@ -1,0 +1,13 @@
+* {
+    font-family: sans-serif;
+    font-size: 16px;
+}
+
+.container {
+    border: 1px solid red;
+    width: 10rem;
+    height: 10rem;
+
+    margin: 1rem auto;
+
+}
